@@ -1,0 +1,634 @@
+[
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "importPath": "rest_auth.serializers",
+        "description": "rest_auth.serializers",
+        "isExtraImport": true,
+        "detail": "rest_auth.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "importPath": "rest_auth.registration.views",
+        "description": "rest_auth.registration.views",
+        "isExtraImport": true,
+        "detail": "rest_auth.registration.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "rest_auth.views",
+        "description": "rest_auth.views",
+        "isExtraImport": true,
+        "detail": "rest_auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerRegisterSerializer",
+        "importPath": "accounts.api.serializers",
+        "description": "accounts.api.serializers",
+        "isExtraImport": true,
+        "detail": "accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.base_user",
+        "description": "django.contrib.auth.base_user",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.base_user",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "accounts",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "accounts",
+        "description": "accounts",
+        "detail": "accounts",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerUserDetailsSerializer",
+        "kind": 6,
+        "importPath": "commerce.accounts.api.serializers",
+        "description": "commerce.accounts.api.serializers",
+        "peekOfCode": "class CustomerUserDetailsSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = (\"id\", \"first_name\", \"last_name\", \"email\")\nclass CustomLoginSerializer(LoginSerializer):\n    username = None\n    email = serializers.EmailField(required=False, allow_blank=True)\n    password = serializers.CharField(style={\"input_type\": \"password\"})\nclass CustomerRegisterSerializer(serializers.Serializer):\n    username = None",
+        "detail": "commerce.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomLoginSerializer",
+        "kind": 6,
+        "importPath": "commerce.accounts.api.serializers",
+        "description": "commerce.accounts.api.serializers",
+        "peekOfCode": "class CustomLoginSerializer(LoginSerializer):\n    username = None\n    email = serializers.EmailField(required=False, allow_blank=True)\n    password = serializers.CharField(style={\"input_type\": \"password\"})\nclass CustomerRegisterSerializer(serializers.Serializer):\n    username = None\n    first_name = serializers.CharField(required=True)\n    last_name = serializers.CharField(required=True)\n    email = serializers.EmailField(required=True)\n    password1 = serializers.CharField(write_only=True, style={\"input_type\": \"password\"})",
+        "detail": "commerce.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerRegisterSerializer",
+        "kind": 6,
+        "importPath": "commerce.accounts.api.serializers",
+        "description": "commerce.accounts.api.serializers",
+        "peekOfCode": "class CustomerRegisterSerializer(serializers.Serializer):\n    username = None\n    first_name = serializers.CharField(required=True)\n    last_name = serializers.CharField(required=True)\n    email = serializers.EmailField(required=True)\n    password1 = serializers.CharField(write_only=True, style={\"input_type\": \"password\"})\n    password2 = serializers.CharField(write_only=True, style={\"input_type\": \"password\"})\n    def validate_email(self, email):\n        email = get_adapter().clean_email(email)\n        if email and email_address_exists(email):",
+        "detail": "commerce.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "commerce.accounts.api.serializers",
+        "description": "commerce.accounts.api.serializers",
+        "peekOfCode": "User = get_user_model()\nclass CustomerUserDetailsSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = (\"id\", \"first_name\", \"last_name\", \"email\")\nclass CustomLoginSerializer(LoginSerializer):\n    username = None\n    email = serializers.EmailField(required=False, allow_blank=True)\n    password = serializers.CharField(style={\"input_type\": \"password\"})\nclass CustomerRegisterSerializer(serializers.Serializer):",
+        "detail": "commerce.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "commerce.accounts.api.urls",
+        "description": "commerce.accounts.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", include(\"rest_auth.urls\")),\n    path(\"register/\", include(\"rest_auth.registration.urls\")),\n]",
+        "detail": "commerce.accounts.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CustomLoginView",
+        "kind": 6,
+        "importPath": "commerce.accounts.api.views",
+        "description": "commerce.accounts.api.views",
+        "peekOfCode": "class CustomLoginView(LoginView):\n    pass\nclass CustomRegisterView(RegisterView):\n    serializer_class = CustomerRegisterSerializer",
+        "detail": "commerce.accounts.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomRegisterView",
+        "kind": 6,
+        "importPath": "commerce.accounts.api.views",
+        "description": "commerce.accounts.api.views",
+        "peekOfCode": "class CustomRegisterView(RegisterView):\n    serializer_class = CustomerRegisterSerializer",
+        "detail": "commerce.accounts.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "commerce.accounts.migrations.0001_initial",
+        "description": "commerce.accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        (\"auth\", \"0012_alter_user_first_name_max_length\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"CustomerUser\",\n            fields=[\n                (",
+        "detail": "commerce.accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "commerce.accounts.apps",
+        "description": "commerce.accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"accounts\"",
+        "detail": "commerce.accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerUserCreationForm",
+        "kind": 6,
+        "importPath": "commerce.accounts.forms",
+        "description": "commerce.accounts.forms",
+        "peekOfCode": "class CustomerUserCreationForm(UserCreationForm):\n    class Meta:\n        model = CustomerUser\n        fields = (\"first_name\", \"last_name\", \"email\")\nclass CustomerUserChangeForm(UserChangeForm):\n    class Meta:\n        model = CustomerUser\n        fields = (\"first_name\", \"last_name\", \"email\")",
+        "detail": "commerce.accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerUserChangeForm",
+        "kind": 6,
+        "importPath": "commerce.accounts.forms",
+        "description": "commerce.accounts.forms",
+        "peekOfCode": "class CustomerUserChangeForm(UserChangeForm):\n    class Meta:\n        model = CustomerUser\n        fields = (\"first_name\", \"last_name\", \"email\")",
+        "detail": "commerce.accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserManager",
+        "kind": 6,
+        "importPath": "commerce.accounts.models",
+        "description": "commerce.accounts.models",
+        "peekOfCode": "class CustomUserManager(BaseUserManager):\n    \"\"\"\n    Custom user model manager with email as the unique identifier\n    \"\"\"\n    def create_user(self, first_name, last_name, email, password, **extra_fields):\n        \"\"\"\n        Create user with the given email and password.\n        \"\"\"\n        if not email:\n            raise ValueError(\"The email must be set\")",
+        "detail": "commerce.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "kind": 6,
+        "importPath": "commerce.accounts.models",
+        "description": "commerce.accounts.models",
+        "peekOfCode": "class CustomUser(AbstractUser):\n    username = None\n    first_name = models.CharField(max_length=255, verbose_name=\"First name\")\n    last_name = models.CharField(max_length=255, verbose_name=\"Last name\")\n    email = models.EmailField(unique=True)\n    USERNAME_FIELD = \"email\"\n    REQUIRED_FIELDS = [\"first_name\", \"last_name\"]\n    objects = CustomUserManager()\n    def __str__(self):\n        return self.email",
+        "detail": "commerce.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "commerce.commerce.asgi",
+        "description": "commerce.commerce.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "commerce.commerce.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-)gygzt=3$#o_@m!^=qc3=xi49+7n)y(^li&3%5foo4posl6@!f\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-)gygzt=3$#o_@m!^=qc3=xi49+7n)y(^li&3%5foo4posl6@!f\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"accounts.apps.AccountsConfig\",",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"accounts.apps.AccountsConfig\",\n    \"rest_framework\",\n    \"rest_framework.authtoken\",",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"allauth.account.middleware.AccountMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "ROOT_URLCONF = \"commerce.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"commerce.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "commerce.commerce.settings",
+        "description": "commerce.commerce.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "commerce.commerce.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "commerce.commerce.urls",
+        "description": "commerce.commerce.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"api/\", include(\"accounts.api.urls\")),\n]",
+        "detail": "commerce.commerce.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "commerce.commerce.wsgi",
+        "description": "commerce.commerce.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "commerce.commerce.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "commerce.manage",
+        "description": "commerce.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"commerce.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "commerce.manage",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "print_hi",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def print_hi(name):\n    # Use a breakpoint in the code line below to debug your script.\n    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.\n# Press the green button in the gutter to run the script.\nif __name__ == '__main__':\n    print_hi('PyCharm')\n# See PyCharm help at https://www.jetbrains.com/help/pycharm/",
+        "detail": "main",
+        "documentation": {}
+    }
+]
